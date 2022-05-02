@@ -1,3 +1,28 @@
 img {
-    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-color: black;
+  
+}
+
+h1,
+h3 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+
+.inside {
+    background-color: white;
+    margin: auto;
+    border: 3px solid black;
+    width: 50%;
 }
