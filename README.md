@@ -7,3 +7,7 @@ Project stage:
 * Created my first recipe link
 * Added two more recipes and published to Github
 * done for today
+
+02MAY:
+
+* Adding some basic CSS styling
